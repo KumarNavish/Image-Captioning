@@ -5,7 +5,7 @@ This Repo contains __pytorch__ implementation of Image captioning using __Bidire
 
 __Dataset Used__  : MSCOCO (To use COCO Dataset please download all dependencies namely pycocotools and pycocoevalcap)
 
-__Note :__  There are few bugs present in these dependencies which you have to debugged,  I have already debugged them but due to Copyright issues i cannot upload here.
+__Note :__  There are few bugs present in these dependencies which have to debugged,  I have already debugged them but due to Copyright issues i cannot upload here.
 
 __Loss metrics Used__: 
 * 4-gram BLUE 
